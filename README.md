@@ -34,7 +34,3 @@ This is a simple Python application for adding a watermark to images. It allows 
 5. Enter the watermark text in the input field.
 6. Click the "Apply Watermark" button to add the watermark to the image.
 7. Click the "Save Image" button to save the watermarked image.
-
-## Contributing
-
-If you'd like to contribute to this project, feel free to create a pull request or open an issue.
